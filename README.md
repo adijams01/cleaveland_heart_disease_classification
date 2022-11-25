@@ -49,7 +49,6 @@ and it looks like this
 ![WhatsApp Image 2022-11-25 at 11 20 13 AM](https://user-images.githubusercontent.com/92617405/203923874-cc815f3f-618a-44e6-98eb-1f2b15f9282b.jpeg)
 
 
-
 ## Results
 
 We got the following results
